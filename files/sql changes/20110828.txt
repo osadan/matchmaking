@@ -1,0 +1,27 @@
+ALTER TABLE `shiduchim`.`meetings` CHANGE COLUMN `boy_remarks` `status_boy` INTEGER UNSIGNED,
+ CHANGE COLUMN `girl_remarks` `status_girl` INTEGER UNSIGNED DEFAULT NULL,
+ DROP COLUMN `shadchan_remarks`;
+
+
+ALTER TABLE `shiduchim`.`offers` ADD COLUMN `status_boy` INTEGER UNSIGNED AFTER `weight`,
+ ADD COLUMN `status_girl` INTEGER UNSIGNED AFTER `status_boy`;
+
+ALTER TABLE `shiduchim`.`meetings` DROP COLUMN `status_boy`;
+ALTER TABLE `shiduchim`.`meetings` DROP COLUMN `status_girl`;
+ALTER TABLE `shiduchim`.`meetings` DROP COLUMN `status`;
+
+ALTER TABLE `shiduchim`.`meetings` ADD COLUMN `status` INTEGER UNSIGNED NOT NULL AFTER `meeting_place`;
+
+
+ALTER TABLE `shiduchim`.`meetings` MODIFY COLUMN `status` INTEGER UNSIGNED,
+ ADD COLUMN `remarks` TEXT AFTER `status`;
+
+CREATE TABLE `shiduchim`.`offers_remarks` (
+  `r_id` INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  `offer_id` INTEGER UNSIGNED NOT NULL,
+  `insert_date` TIMESTAMP NOT NULL,
+  `update_date` TIMESTAMP NOT NULL,
+  `text` TEXT,
+  PRIMARY KEY (`r_id`)
+)
+ENGINE = InnoDB;

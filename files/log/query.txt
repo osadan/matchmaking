@@ -1,0 +1,513 @@
+Tue, 01 Jun 10 23:45:21 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'))
+Tue, 01 Jun 10 23:50:59 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'))
+Thu, 03 Jun 10 20:29:37 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'
+Thu, 03 Jun 10 21:11:45 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'
+Thu, 03 Jun 10 21:12:05 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'  and dorYesharim = 'חח9879ןח0'
+Thu, 03 Jun 10 21:12:23 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'  and dorYesharim = 'חח9879ןח0'
+Thu, 03 Jun 10 21:13:10 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'
+Thu, 03 Jun 10 21:13:28 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'
+Thu, 03 Jun 10 21:13:49 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'
+Thu, 03 Jun 10 21:14:08 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'
+Thu, 03 Jun 10 21:15:12 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'
+Thu, 03 Jun 10 21:16:34 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'
+Thu, 03 Jun 10 21:17:00 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where   and dorYesharim = 'חח9879ןח0'
+Mon, 07 Jun 10 22:37:25 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 22:40:14 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 22:52:41 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 22:53:30 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 22:53:49 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 22:55:22 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 22:56:44 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 22:57:14 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 22:58:00 +0300 select * from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 23:00:26 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 23:05:16 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 23:07:00 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 23:12:23 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 36  and gender = 'male' 
+Mon, 07 Jun 10 23:14:35 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 20 and age < 30  and gender = 'male' 
+Mon, 07 Jun 10 23:15:25 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where( flow = 'litai' or flow = 'hasid')
+Mon, 07 Jun 10 23:16:36 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where origin = 'יד עזרה'
+Tue, 15 Jun 10 20:07:23 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 30 
+Tue, 15 Jun 10 20:07:42 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 30 
+Tue, 15 Jun 10 20:08:28 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 30 
+Tue, 15 Jun 10 20:14:37 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 30 
+Tue, 15 Jun 10 20:26:25 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 30 
+Tue, 15 Jun 10 20:28:12 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 30 
+Tue, 15 Jun 10 20:28:42 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 30 
+Tue, 15 Jun 10 20:33:30 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 30 
+Tue, 15 Jun 10 20:34:31 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 30 
+Tue, 15 Jun 10 20:36:28 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 15 and age < 30 
+Tue, 15 Jun 10 21:02:48 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 18 
+Tue, 15 Jun 10 21:04:01 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 18 and age < 19 
+Tue, 15 Jun 10 21:04:11 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 17 and age < 19 
+Tue, 15 Jun 10 21:28:13 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 30 and age < 32  and gender = 'male' 
+Tue, 15 Jun 10 21:31:03 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 30 and age < 32 
+Wed, 07 Jul 10 14:39:39 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where  
+Sun, 11 Jul 10 21:02:34 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where  
+Mon, 12 Jul 10 22:21:44 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where gender = 'female' 
+Mon, 12 Jul 10 22:22:07 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where gender = 'male' 
+Tue, 13 Jul 10 21:44:02 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where  
+Wed, 28 Jul 10 21:02:52 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 10 and age < 100  and gender = 'male' 
+Wed, 28 Jul 10 21:03:10 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where gender = 'male' 
+Thu, 29 Jul 10 19:19:04 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where gender = 'male'  and flow = 'charadlnic'
+Thu, 29 Jul 10 19:19:28 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where gender = 'male' and( bird = 'short')
+Thu, 29 Jul 10 19:31:51 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where gender = 'male' 
+Tue, 17 Aug 10 22:24:10 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where( flow = 'hasid' and flow = 'litai')
+Tue, 17 Aug 10 22:24:20 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where gender = 'male' 
+Wed, 27 Oct 10 11:00:33 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where gender = 'male' 
+Wed, 27 Oct 10 11:00:56 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 10 and age < 30 
+Wed, 03 Nov 10 08:41:25 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 0  and gender = 'male' 
+Wed, 03 Nov 10 09:25:15 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 18 and age < 20  and gender = 'male' 
+Wed, 03 Nov 10 09:25:19 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where gender = 'male' 
+Wed, 03 Nov 10 09:25:34 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where age > 20 and age < 40 
+Sun, 07 Nov 10 09:05:57 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 andage > 1980 and age < 1976 
+Sun, 07 Nov 10 09:06:59 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1980 and  age < 1976 
+Sun, 07 Nov 10 09:07:10 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1982 and  age < 1974 
+Sun, 07 Nov 10 09:07:33 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1982 and  age < 1974 
+Sun, 07 Nov 10 09:07:57 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1982 and  age < 1978 
+Sun, 07 Nov 10 09:08:33 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1982 and  age < 1978 
+Sun, 07 Nov 10 09:09:19 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1978 and  age < 1982 
+Sun, 07 Nov 10 09:09:31 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1985 and  age < 1976 
+Sun, 07 Nov 10 09:09:45 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1970 and  age < 1990 
+Sun, 07 Nov 10 09:09:56 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1975 and  age < 1985 
+Sun, 07 Nov 10 09:10:08 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1977 and  age < 1980 
+Sun, 07 Nov 10 09:10:17 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1978 and  age < 1979 
+Sun, 07 Nov 10 09:10:27 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age > 1977 and  age < 1978 
+Sun, 07 Nov 10 09:11:03 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age <= 1980 and  age >= 1978 
+Sun, 07 Nov 10 09:11:13 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age <= 1978 and  age >= 1978 
+Sun, 07 Nov 10 09:11:23 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age <= 1980 and  age >= 2010 
+Sun, 07 Nov 10 09:12:35 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age <= 1980 and  age >= 2010 
+Sun, 07 Nov 10 09:13:44 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and age <= 1980 
+Sun, 07 Nov 10 10:40:27 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 =1 and  and motherLastName = 'רחמים'
+Sun, 07 Nov 10 10:44:27 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1   and motherLastName = 'רחמים'
+Sun, 07 Nov 10 10:45:14 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and( flow = 'hasid' or flow = 'litai')
+Sun, 07 Nov 10 10:45:39 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and( flow = 'hasid' and flow = 'litai')
+Sun, 07 Nov 10 10:55:14 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  age <= 1998 and  age >= 1975  and gender = 'male'  and firstName = 'אהד'
+Fri, 12 Nov 10 22:30:43 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  age <= 1990 and  age >= 1970  and gender = 'male' 
+Fri, 12 Nov 10 22:31:30 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   and bird = 'short'
+Fri, 12 Nov 10 22:32:44 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   and bird = 'short'
+Fri, 12 Nov 10 22:33:02 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   and bird = 'short'
+Fri, 12 Nov 10 22:33:14 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   and firstName = 'אהד'
+Fri, 12 Nov 10 22:33:29 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  and( firstName = 'אהד' and lastName = 'סדן')
+Fri, 12 Nov 10 22:33:41 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   and firstName = 'אוהד'
+Fri, 12 Nov 10 22:33:48 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  
+Fri, 12 Nov 10 22:34:21 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   and bird = 'short'
+Fri, 12 Nov 10 22:36:25 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   and bird = 'short'
+Fri, 12 Nov 10 22:37:08 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   and bird = 'short'
+Fri, 12 Nov 10 22:37:38 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   and bird = 'short'
+Fri, 12 Nov 10 22:38:54 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   and bird = 'short'
+Fri, 12 Nov 10 22:40:34 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and   or bird = 'short'
+Fri, 12 Nov 10 22:41:12 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  bird = 'short'
+Fri, 12 Nov 10 22:41:29 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  bird = 'short' and bird = 'long'
+Fri, 12 Nov 10 22:44:52 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  and( = 'hasid' and bird = 'short')
+Fri, 12 Nov 10 22:46:26 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  firstName = 'אהד'flow = 'hasid'
+Fri, 12 Nov 10 22:46:54 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  firstName = 'אהד'flow = 'hasid'
+Fri, 12 Nov 10 22:47:24 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  and( = 'hasid' and flow = 'litai')
+Fri, 12 Nov 10 22:48:03 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  and( = 'hasid' and flow = 'litai')
+Fri, 12 Nov 10 23:03:40 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  and (flow = 'hasid' and flow = 'litai')
+Fri, 12 Nov 10 23:05:10 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (flow = 'hasid' and flow = 'litai')
+Fri, 12 Nov 10 23:05:29 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (flow = 'hasid' or flow = 'litai')
+Fri, 12 Nov 10 23:06:06 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (flow = 'hasid' and bird = 'short' or bird = 'long' or bird = 'neat')
+Fri, 12 Nov 10 23:06:44 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (flow = 'hasid' and bird = 'long')
+Fri, 12 Nov 10 23:06:56 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  age <= 1990 and  age >= 1980 and (flow = 'hasid')
+Fri, 12 Nov 10 23:07:10 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and ( and flow = 'litai')
+Fri, 12 Nov 10 23:08:13 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and ( and flow = 'litai')
+Fri, 12 Nov 10 23:09:18 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and ( and flow = 'litai')
+Fri, 12 Nov 10 23:09:52 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and ( and flow = 'litai')
+Fri, 12 Nov 10 23:10:58 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (flow = 'litai')
+Fri, 12 Nov 10 23:14:45 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (firstName = 'אהד')and (flow = 'hasid')
+Fri, 12 Nov 10 23:15:06 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (fatherJob = 'כולל')and (flow = 'hasid')
+Fri, 12 Nov 10 23:15:52 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  age <= 1990 and  age >= 1970  and gender = 'male' and (origin = 'ספ')and (flow = 'litai' or flow = 'hasid')
+Fri, 12 Nov 10 23:17:06 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (origin = 'יד עזרה')and (bird = 'short')
+Tue, 18 Jan 11 22:44:01 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  age <= 1988 and  age >= 1971  and gender = 'male' 
+Tue, 18 Jan 11 23:04:05 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1   and gender = 'male' 
+Tue, 18 Jan 11 23:10:20 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (firstName like '%אהד%')and (bird = 'long' or bird = 'short' or hat = 'hasidy')
+Tue, 18 Jan 11 23:10:57 +0200 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1   and gender = 'male' 
+Tue, 26 Apr 11 04:45:55 +0300 Update defanitions(name) set name ='חסידי אמיתי' where id =  1
+Tue, 26 Apr 11 04:46:54 +0300 Update defanitions set name ='חסידי אמיתי' where id =  1
+Tue, 26 Apr 11 04:47:37 +0300 Update defanitions set name ='חסידי אמיתי באמת' where id =  1
+Tue, 26 Apr 11 04:53:37 +0300 Update defanitions set name ='ליטאי אמיתי באמת' where id =  4
+Tue, 26 Apr 11 04:54:04 +0300 Update defanitions set name ='ליטאי אמיתי ' where id =  4
+Tue, 26 Apr 11 04:57:46 +0300 Update defanitions set name ='ארוכות מאוד' where id =  3
+Tue, 26 Apr 11 05:00:01 +0300 Update defanitions set name ='מסולסל' where id =  2
+Tue, 26 Apr 11 05:00:33 +0300 Update defanitions set name ='ארוך' where id =  2
+Wed, 27 Apr 11 23:52:09 +0300 Update defanitions set name ='חסידי' where id =  1
+Wed, 27 Apr 11 23:52:33 +0300 Update defanitions set name ='ליטאי' where id =  4
+Thu, 28 Apr 11 00:19:04 +0300 Update defanitions set name ='ארוכות' where id =  3
+Sun, 01 May 11 20:51:49 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1   and gender = 'female' 
+Sun, 01 May 11 20:54:06 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1   and gender = 'female' 
+Sun, 01 May 11 20:57:19 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1   and gender = 'female' 
+Sun, 01 May 11 20:57:30 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1   and gender = 'male' 
+Sun, 01 May 11 20:58:04 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (firstName like '%א%')
+Fri, 13 May 11 02:04:00 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1   and gender = 'male' 
+Mon, 09 Jul 12 19:49:42 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  age <= 2002 and  age >= 1962  and gender = 'male' 
+Mon, 09 Jul 12 19:50:43 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  age <= 2002 and  age >= 1962  and gender = 'female' 
+Mon, 09 Jul 12 21:36:33 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Sat, 14 Jul 12 00:57:08 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Wed, 20 Jul 11 23:05:34 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Wed, 20 Jul 11 23:07:42 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Sun, 31 Jul 11 23:32:54 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  age <= 1993 and  age >= 1981  and gender = 'male' 
+Sat, 06 Aug 11 23:46:02 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  age <= 1996 and  age >= 1931 
+Sun, 07 Aug 11 01:12:16 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  age <= 2001 and  age >= 1961 
+Sat, 13 Aug 11 23:37:40 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Sun, 14 Aug 11 00:04:26 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Sat, 20 Aug 11 23:52:24 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Mon, 22 Aug 11 23:38:47 +0300 mysql error: [1146: Table 'shiduchim.offer' doesn't exist] in EXECUTE("INSERT INTO offer (status,boy_id,girl_id,update_date,insert_date) VALUES (offers,17,16,1314045527,1314045527)")
+#0 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1038): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'shiduchi...', 'INSERT INTO off...', false, Object(ADODB_mysql))
+#1 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1013): ADOConnection->_Execute('INSERT INTO off...', false)
+#2 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb-lib.inc.php(212): ADOConnection->Execute('INSERT INTO off...')
+#3 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1659): _adodb_replace(Object(ADODB_mysql), 'offer', Array, true, false, false)
+#4 C:\xampp\htdocs\shiduchim1.0\public_html\classes\Mettings.php(19): ADOConnection->Replace('offer', Array, true)
+#5 C:\xampp\htdocs\shiduchim1.0\public_html\ajax.php(38): Mettings->add_new_offer('17', '16')
+#6 {main}
+Mon, 22 Aug 11 23:39:47 +0300 mysql error: [1146: Table 'shiduchim.offer' doesn't exist] in EXECUTE("INSERT INTO offer (status,boy_id,girl_id,update_date,insert_date) VALUES (offers,17,16,1314045587,1314045587)")
+#0 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1038): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'shiduchi...', 'INSERT INTO off...', false, Object(ADODB_mysql))
+#1 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1013): ADOConnection->_Execute('INSERT INTO off...', false)
+#2 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb-lib.inc.php(212): ADOConnection->Execute('INSERT INTO off...')
+#3 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1659): _adodb_replace(Object(ADODB_mysql), 'offer', Array, 'o_id', false, false)
+#4 C:\xampp\htdocs\shiduchim1.0\public_html\classes\Mettings.php(19): ADOConnection->Replace('offer', Array, 'o_id')
+#5 C:\xampp\htdocs\shiduchim1.0\public_html\ajax.php(38): Mettings->add_new_offer('17', '16')
+#6 {main}
+Mon, 22 Aug 11 23:44:31 +0300 mysql error: [1146: Table 'shiduchim.offer' doesn't exist] in EXECUTE("INSERT INTO offer (status,boy_id,girl_id,update_date,insert_date) VALUES (offers,19,16,1314045747,1314045747)")
+#0 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1038): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'shiduchi...', 'INSERT INTO off...', false, Object(ADODB_mysql))
+#1 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1013): ADOConnection->_Execute('INSERT INTO off...', false)
+#2 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb-lib.inc.php(212): ADOConnection->Execute('INSERT INTO off...')
+#3 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1659): _adodb_replace(Object(ADODB_mysql), 'offer', Array, 'o_id', false, false)
+#4 C:\xampp\htdocs\shiduchim1.0\public_html\classes\Mettings.php(19): ADOConnection->Replace('offer', Array, 'o_id')
+#5 C:\xampp\htdocs\shiduchim1.0\public_html\ajax.php(38): Mettings->add_new_offer('19', '16')
+#6 {main}
+Mon, 22 Aug 11 23:59:10 +0300 mysql error: [1062: Duplicate entry '17-16' for key 2] in EXECUTE("INSERT INTO offers (status,boy_id,girl_id,update_date,insert_date) VALUES ('offers','17','16','2011-08-22 23:59:10','2011-08-22 23:59:10')")
+#0 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1038): adodb_throw('mysql', 'EXECUTE', 1062, 'Duplicate entry...', 'INSERT INTO off...', false, Object(ADODB_mysql))
+#1 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1013): ADOConnection->_Execute('INSERT INTO off...', false)
+#2 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb-lib.inc.php(212): ADOConnection->Execute('INSERT INTO off...')
+#3 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1659): _adodb_replace(Object(ADODB_mysql), 'offers', Array, 'o_id', true, false)
+#4 C:\xampp\htdocs\shiduchim1.0\public_html\classes\Mettings.php(20): ADOConnection->Replace('offers', Array, 'o_id', true)
+#5 C:\xampp\htdocs\shiduchim1.0\public_html\ajax.php(38): Mettings->add_new_offer('17', '16')
+#6 {main}
+Mon, 22 Aug 11 23:59:42 +0300 mysql error: [1062: Duplicate entry '17-16' for key 2] in EXECUTE("INSERT INTO offers (status,boy_id,girl_id,update_date,insert_date) VALUES ('offers','17','16','2011-08-22 23:59:42','2011-08-22 23:59:42')")
+#0 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1038): adodb_throw('mysql', 'EXECUTE', 1062, 'Duplicate entry...', 'INSERT INTO off...', false, Object(ADODB_mysql))
+#1 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1013): ADOConnection->_Execute('INSERT INTO off...', false)
+#2 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb-lib.inc.php(212): ADOConnection->Execute('INSERT INTO off...')
+#3 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1659): _adodb_replace(Object(ADODB_mysql), 'offers', Array, 'o_id', true, false)
+#4 C:\xampp\htdocs\shiduchim1.0\public_html\classes\Mettings.php(20): ADOConnection->Replace('offers', Array, 'o_id', true)
+#5 C:\xampp\htdocs\shiduchim1.0\public_html\ajax.php(38): Mettings->add_new_offer('17', '16')
+#6 {main}
+Tue, 23 Aug 11 00:03:36 +0300 mysql error: [1062: Duplicate entry '17-16' for key 2] in EXECUTE("INSERT INTO offers (status,boy_id,girl_id,update_date,insert_date) VALUES ('offers','17','16','2011-08-23 00:01:21','2011-08-23 00:01:21')")
+#0 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1038): adodb_throw('mysql', 'EXECUTE', 1062, 'Duplicate entry...', 'INSERT INTO off...', false, Object(ADODB_mysql))
+#1 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1013): ADOConnection->_Execute('INSERT INTO off...', false)
+#2 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb-lib.inc.php(212): ADOConnection->Execute('INSERT INTO off...')
+#3 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1659): _adodb_replace(Object(ADODB_mysql), 'offers', Array, 'o_id', true, false)
+#4 C:\xampp\htdocs\shiduchim1.0\public_html\classes\Mettings.php(20): ADOConnection->Replace('offers', Array, 'o_id', true)
+#5 C:\xampp\htdocs\shiduchim1.0\public_html\ajax.php(38): Mettings->add_new_offer('17', '16')
+#6 {main}
+Tue, 23 Aug 11 00:04:04 +0300 mysql error: [1062: Duplicate entry '17-16' for key 2] in EXECUTE("INSERT INTO offers (status,boy_id,girl_id,update_date,insert_date) VALUES ('offers','17','16','2011-08-23 00:04:04','2011-08-23 00:04:04')")
+#0 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1038): adodb_throw('mysql', 'EXECUTE', 1062, 'Duplicate entry...', 'INSERT INTO off...', false, Object(ADODB_mysql))
+#1 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1013): ADOConnection->_Execute('INSERT INTO off...', false)
+#2 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb-lib.inc.php(212): ADOConnection->Execute('INSERT INTO off...')
+#3 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1659): _adodb_replace(Object(ADODB_mysql), 'offers', Array, 'o_id', true, false)
+#4 C:\xampp\htdocs\shiduchim1.0\public_html\classes\Mettings.php(20): ADOConnection->Replace('offers', Array, 'o_id', true)
+#5 C:\xampp\htdocs\shiduchim1.0\public_html\ajax.php(38): Mettings->add_new_offer('17', '16')
+#6 {main}
+Tue, 23 Aug 11 00:04:18 +0300 mysql error: [1062: Duplicate entry '17-16' for key 2] in EXECUTE("INSERT INTO offers (status,boy_id,girl_id,update_date,insert_date) VALUES ('offers','17','16','2011-08-23 00:04:18','2011-08-23 00:04:18')")
+#0 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1038): adodb_throw('mysql', 'EXECUTE', 1062, 'Duplicate entry...', 'INSERT INTO off...', false, Object(ADODB_mysql))
+#1 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1013): ADOConnection->_Execute('INSERT INTO off...', false)
+#2 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb-lib.inc.php(212): ADOConnection->Execute('INSERT INTO off...')
+#3 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1659): _adodb_replace(Object(ADODB_mysql), 'offers', Array, 'o_id', true, false)
+#4 C:\xampp\htdocs\shiduchim1.0\public_html\classes\Mettings.php(20): ADOConnection->Replace('offers', Array, 'o_id', true)
+#5 C:\xampp\htdocs\shiduchim1.0\public_html\ajax.php(38): Mettings->add_new_offer('17', '16')
+#6 {main}
+Tue, 23 Aug 11 00:27:12 +0300 mysql error: [1062: Duplicate entry '19-15' for key 2] in EXECUTE("INSERT INTO offers (status,boy_id,girl_id,update_date,insert_date) VALUES ('offers','19','15','2011-08-23 00:27:12','2011-08-23 00:27:12')")
+#0 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1038): adodb_throw('mysql', 'EXECUTE', 1062, 'Duplicate entry...', 'INSERT INTO off...', false, Object(ADODB_mysql))
+#1 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1013): ADOConnection->_Execute('INSERT INTO off...', false)
+#2 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb-lib.inc.php(212): ADOConnection->Execute('INSERT INTO off...')
+#3 C:\xampp\htdocs\shiduchim1.0\public_html\libs\adodb5\adodb.inc.php(1659): _adodb_replace(Object(ADODB_mysql), 'offers', Array, 'o_id', true, false)
+#4 C:\xampp\htdocs\shiduchim1.0\public_html\classes\Mettings.php(20): ADOConnection->Replace('offers', Array, 'o_id', true)
+#5 C:\xampp\htdocs\shiduchim1.0\public_html\ajax.php(38): Mettings->add_new_offer('19', '15')
+#6 {main}
+Wed, 24 Aug 11 19:23:34 +0300 add_new_offer
+Query:INSERT INTO offers (status,boy_id,girl_id,update_date,insert_date) VALUES ('offer','17','16','2011-08-24 19:23:34','2011-08-24 19:23:34')
+Wed, 24 Aug 11 23:42:16 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Wed, 24 Aug 11 23:43:22 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (flow = 'hasid')
+Thu, 25 Aug 11 01:57:04 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Thu, 25 Aug 11 01:58:24 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Thu, 25 Aug 11 01:58:56 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Thu, 25 Aug 11 02:00:06 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Thu, 25 Aug 11 02:04:24 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Thu, 25 Aug 11 02:04:50 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Sun, 25 Sep 11 21:06:31 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Sun, 25 Sep 11 21:57:38 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Sun, 25 Sep 11 21:57:42 +0300 select *,person.id as qid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Sun, 25 Sep 11 22:20:08 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (bird = 'long')
+Sun, 25 Sep 11 22:20:31 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (bird = 'long')
+Sun, 25 Sep 11 22:20:50 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (bird = 'long')
+Sun, 25 Sep 11 22:21:29 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Mon, 26 Sep 11 22:32:36 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Tue, 27 Sep 11 01:35:03 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and (lastName like '%בניסטי%')
+Tue, 04 Oct 11 00:37:43 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Tue, 04 Oct 11 00:38:01 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Tue, 04 Oct 11 00:39:14 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Tue, 04 Oct 11 00:39:35 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Tue, 04 Oct 11 00:39:40 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Tue, 04 Oct 11 23:58:37 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Tue, 04 Oct 11 23:59:03 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Wed, 05 Oct 11 00:03:17 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Wed, 05 Oct 11 00:07:11 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Wed, 05 Oct 11 00:12:00 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  and  age <= 1991 and  age >= 1985  and gender = 'male' 
+Thu, 06 Oct 11 01:48:01 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1  
+Thu, 06 Oct 11 01:53:42 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Thu, 06 Oct 11 01:54:27 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Thu, 06 Oct 11 01:54:34 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Thu, 06 Oct 11 01:55:21 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Thu, 06 Oct 11 01:58:20 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Thu, 06 Oct 11 01:59:14 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Thu, 06 Oct 11 02:00:51 +0300 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Thu, 05 Jan 12 11:26:11 +0100 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and (flow = 'hasid' and bird = 'long')
+Thu, 05 Jan 12 11:26:22 +0100 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and (firstName like '%שירה%')
+Thu, 05 Jan 12 11:27:21 +0100 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'male' 
+Thu, 05 Jan 12 11:36:42 +0100 Update defanitions set name ='' where id =  41
+Thu, 05 Jan 12 11:37:00 +0100 Update defanitions set name ='' where id =  55
+Tue, 10 Jan 12 23:12:42 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' and (firstName like '%מירי%')
+Tue, 10 Jan 12 23:12:54 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Tue, 10 Jan 12 23:14:17 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1994  and gender = 'female' 
+Tue, 10 Jan 12 23:16:02 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1994  and gender = 'male' 
+Tue, 10 Jan 12 23:17:00 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1996  and gender = 'male' 
+Tue, 10 Jan 12 23:17:54 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1992  and gender = 'female' 
+Tue, 10 Jan 12 23:18:47 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1992  and gender = 'female' 
+Wed, 11 Jan 12 18:46:55 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 18:46:55 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 18:46:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 18:46:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 18:46:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 18:46:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 21:04:17 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 21:04:18 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 21:04:18 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 21:04:18 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 21:04:18 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 11 Jan 12 21:04:19 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 12 Jan 12 01:31:38 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 12 Jan 12 01:31:38 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 12 Jan 12 01:31:38 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 12 Jan 12 01:31:39 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 12 Jan 12 01:31:39 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 12 Jan 12 01:31:39 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 12 Jan 12 01:37:06 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1994 and  age >= 1988  and gender = 'male' and (suit = 'long')
+Thu, 12 Jan 12 01:37:37 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1994 and  age >= 1988  and gender = 'male' and (suit = 'long')
+Sun, 15 Jan 12 23:41:55 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 15 Jan 12 23:41:55 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 15 Jan 12 23:41:55 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 15 Jan 12 23:41:55 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 15 Jan 12 23:41:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 16 Jan 12 21:25:09 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 16 Jan 12 21:25:09 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 16 Jan 12 21:25:09 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 16 Jan 12 21:41:00 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1994 and  age >= 1988  and gender = 'male' and (bird = 'long')
+Mon, 16 Jan 12 21:41:10 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 16 Jan 12 21:41:11 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 16 Jan 12 21:41:11 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 16 Jan 12 21:41:12 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:21:03 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:21:04 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:21:04 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:21:08 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:21:08 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:36:50 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1988 and  age >= 1986  and gender = 'male' and (bird = 'long')
+Sun, 22 Jan 12 23:37:15 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:40:21 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:40:23 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:40:26 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:40:30 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:40:31 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:40:33 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 22 Jan 12 23:50:51 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1986  and gender = 'male' and (flow = 'litai')
+Sun, 22 Jan 12 23:56:52 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:27:59 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:28:00 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:28:00 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:28:01 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:28:02 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:28:02 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:28:03 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:30:45 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1994 and  age >= 1989  and gender = 'male' and (origin like '%יד עזרה%')and (bird = 'long')
+Mon, 23 Jan 12 20:31:04 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:32:43 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:32:44 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:32:44 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:32:45 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:32:45 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:32:46 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:32:46 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 23 Jan 12 20:32:46 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:02:47 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:02:47 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:02:49 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:02:49 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:02:50 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:02:50 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:02:51 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:02:51 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:06:37 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:06:37 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:06:38 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:06:40 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:06:40 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:06:41 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:06:41 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:06:42 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:06:42 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:07:18 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:07:19 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:07:20 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:07:21 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:07:21 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:07:23 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:07:23 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:07:24 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:07:25 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:16:38 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:16:38 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:16:39 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:16:40 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:16:41 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:16:41 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:16:42 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:16:43 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:16:43 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:18:21 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:18:22 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:18:23 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:18:25 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:18:25 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:18:26 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:20:44 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:20:46 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:20:47 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:20:48 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:20:48 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:20:49 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:20:49 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:20:51 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:20:51 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:38:42 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:38:42 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 21:38:42 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 22:03:11 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 22:03:13 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 22:03:14 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 22:03:14 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 22:03:15 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 22:03:15 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 22:03:16 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 22:03:17 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 25 Jan 12 22:03:17 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 29 Jan 12 22:11:17 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 29 Jan 12 22:42:32 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and (firstName like '%פרוש אריה%')
+Sun, 29 Jan 12 23:38:33 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 29 Jan 12 23:39:50 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 29 Jan 12 23:46:26 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1992 and  age >= 1987 and (bird = 'long')
+Sun, 29 Jan 12 23:58:40 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 30 Jan 12 00:03:05 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 30 Jan 12 19:49:22 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 30 Jan 12 19:49:23 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 30 Jan 12 19:49:23 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 30 Jan 12 19:49:23 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 30 Jan 12 19:49:23 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 30 Jan 12 19:50:34 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 30 Jan 12 22:47:15 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 30 Jan 12 22:59:10 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 30 Jan 12 22:59:24 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Mon, 30 Jan 12 23:01:54 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Mon, 30 Jan 12 23:03:05 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'male' 
+Mon, 30 Jan 12 23:06:52 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Tue, 31 Jan 12 22:54:57 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Tue, 31 Jan 12 22:55:03 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Tue, 31 Jan 12 22:58:18 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1989 and  age >= 1989  and gender = 'male' 
+Tue, 31 Jan 12 23:21:52 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Tue, 31 Jan 12 23:21:54 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Tue, 31 Jan 12 23:23:38 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Tue, 31 Jan 12 23:23:40 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Tue, 31 Jan 12 23:37:40 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Tue, 31 Jan 12 23:37:40 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Tue, 31 Jan 12 23:59:40 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 01 Feb 12 00:00:11 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 01 Feb 12 00:00:12 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 01 Feb 12 00:08:46 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 01 Feb 12 00:08:48 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 01 Feb 12 00:11:25 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1994 and  age >= 1988  and gender = 'male' and (firstName like '%יד עזרה%')and (bird = 'long')
+Wed, 01 Feb 12 00:13:00 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 01 Feb 12 00:13:01 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 01 Feb 12 00:13:02 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 01 Feb 12 00:32:01 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 01 Feb 12 00:32:03 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 01 Feb 12 00:32:04 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 05 Feb 12 22:09:53 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 05 Feb 12 22:09:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 05 Feb 12 22:09:57 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 05 Feb 12 22:57:49 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 05 Feb 12 22:57:50 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 05 Feb 12 22:57:51 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 05 Feb 12 22:57:52 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 05 Feb 12 23:10:05 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'male' 
+Mon, 06 Feb 12 22:13:08 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 06 Feb 12 22:13:11 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 06 Feb 12 22:13:12 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 06 Feb 12 22:13:12 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Mon, 06 Feb 12 22:13:13 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 08 Feb 12 22:30:27 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 08 Feb 12 22:30:28 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 08 Feb 12 22:30:29 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 08 Feb 12 22:30:30 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 08 Feb 12 22:30:30 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 08 Feb 12 22:30:31 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Wed, 08 Feb 12 22:30:31 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:01:53 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:01:53 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:01:54 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:01:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:01:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:01:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:01:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:08:42 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:08:43 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:08:43 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:08:45 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:08:45 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:08:45 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:08:45 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:25:12 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:25:13 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:25:14 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:25:15 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:25:15 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:25:15 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:25:15 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 00:25:16 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 23:14:39 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 23:14:41 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 23:14:41 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 23:14:43 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 23:14:44 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 23:14:44 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 23:14:47 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 23:14:49 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 23:14:53 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Thu, 09 Feb 12 23:14:59 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Fri, 10 Feb 12 00:36:53 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Fri, 10 Feb 12 00:58:07 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'male' and (bird = 'long')
+Sun, 12 Feb 12 20:11:56 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 12 Feb 12 20:12:00 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 12 Feb 12 20:13:51 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 12 Feb 12 20:13:51 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 12 Feb 12 20:16:22 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 12 Feb 12 20:16:23 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 12 Feb 12 20:21:52 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 12 Feb 12 20:21:53 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 12 Feb 12 22:56:13 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 12 Feb 12 22:56:16 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  
+Sun, 12 Feb 12 23:17:33 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Sun, 12 Feb 12 23:18:12 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'female' 
+Sun, 12 Feb 12 23:39:48 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1994 and  age >= 1985 
+Sun, 12 Feb 12 23:41:33 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1994 and  age >= 1984 
+Sun, 12 Feb 12 23:50:41 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1  and  age <= 1994 and  age >= 1983 
+Wed, 15 Feb 12 00:32:11 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'male' 
+Wed, 15 Feb 12 00:32:32 +0200 select *,person.id as pid from  person left join extrnalview on person.id = extrnalview.p_id where 1 = 1 and person.active = 1   and gender = 'male' 

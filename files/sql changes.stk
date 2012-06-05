@@ -1,0 +1,40 @@
+ALTER TABLE `shiduchim`.`extrnalview` ADD COLUMN `outLook` VARCHAR(45) CHARACTER SET utf8 COLLATE utf8_general_ci AFTER `generalLook`,
+ ADD COLUMN `wigg` VARCHAR(45) CHARACTER SET utf8 COLLATE utf8_general_ci AFTER `outLook`;ALTER TABLE `shiduchim`.`person` ADD COLUMN `accupation` VARCHAR(128) AFTER `updateDate`,
+ ADD COLUMN `s_married` INTEGER UNSIGNED AFTER `accupation`,
+ ADD COLUMN `comments` MEDIUMTEXT AFTER `s_married`;
+ALTER TABLE `shiduchim`.`person` MODIFY COLUMN `birthdate` VARCHAR(9) DEFAULT NULL;
+ALTER TABLE `shiduchim`.`person` MODIFY COLUMN `accupation` VARCHAR(128) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+ MODIFY COLUMN `comments` MEDIUMTEXT CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL;
+ALTER TABLE `shiduchim`.`extrnalview` ADD COLUMN `glasses` TINYINT(1) UNSIGNED DEFAULT 0 AFTER `wigg`;
+CREATE TABLE `shiduchim`.`users` (
+  `id` INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  `firstName` VARCHAR(45) NOT NULL,
+  `lastName` VARCHAR(45) NOT NULL,
+  `address` VARCHAR(64),
+  `phone` VARCHAR(45),
+  `cellphone` VARCHAR(45),
+  `email` VARCHAR(45),
+  `comments` MEDIUMTEXT,
+  `password` VARCHAR(128),
+  `premmisions` INTEGER UNSIGNED,
+  `updateDate` DATETIME NOT NULL,
+  `insertDate` DATETIME NOT NULL,
+  PRIMARY KEY (`id`)
+)
+ENGINE = MyISAM
+CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE `shiduchim`.`users` ADD COLUMN `nickName` VARCHAR(45) NOT NULL AFTER `insertDate`;
+ALTER TABLE `shiduchim`.`users` MODIFY COLUMN `nickName` VARCHAR(45) CHARACTER SET hebrew COLLATE hebrew_general_ci NOT NULL;
+CREATE TABLE `shiduchim`.`login` (
+  `id` INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  `userid` INTEGER UNSIGNED NOT NULL,
+  `random` VARCHAR(256) NOT NULL,
+  `ip` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`id`)
+)
+ALTER TABLE `shiduchim`.`login` ADD COLUMN `l_date` BIGINT UNSIGNED NOT NULL AFTER `ip`,
+ DROP PRIMARY KEY,
+ ADD PRIMARY KEY  USING BTREE(`id`);
+ENGINE = MEMORY;
+
+

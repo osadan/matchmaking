@@ -1,0 +1,1792 @@
+Thu, 22 Jul 10 00:23:09 +0300 ׳׳׳’׳—׳›׳׳“׳—׳›׳׳׳“׳—
+Thu, 22 Jul 10 00:23:19 +0300 ׳׳”׳“׳™
+Thu, 22 Jul 10 00:24:10 +0300 ׳׳’׳—׳›׳׳’׳“׳—׳›׳׳“
+Thu, 22 Jul 10 00:24:27 +0300 ׳׳›׳—׳’׳׳›׳—׳’׳“׳׳—׳›׳׳“׳’
+Thu, 22 Jul 10 00:36:00 +0300 select count(*) from users where nickName = '׳‘׳׳” ׳‘׳׳”'
+Thu, 22 Jul 10 00:36:05 +0300 select count(*) from users where nickName = '׳׳”׳“׳™'
+Thu, 22 Jul 10 00:37:43 +0300 select count(*) from users where nickName = 'dshdakj'
+Thu, 22 Jul 10 00:38:13 +0300 select count(*) from users where nickName = '׳׳”׳“׳™'
+Thu, 22 Jul 10 00:38:36 +0300 select count(*) from users where nickName = ''
+Thu, 22 Jul 10 00:38:41 +0300 select count(*) from users where nickName = '׳—׳׳׳’׳“׳—׳›׳׳׳’׳“׳—'
+Thu, 22 Jul 10 00:39:50 +0300 select count(*) from users where nickName = ''
+Thu, 22 Jul 10 00:39:54 +0300 select count(*) from users where nickName = '׳™׳•׳¡׳™'
+Thu, 22 Jul 10 00:40:16 +0300 select count(*) from users where nickName = '׳׳”׳“׳™'
+Thu, 22 Jul 10 00:40:40 +0300 select * from users where nickName = '׳™׳•׳¡׳™'
+Thu, 22 Jul 10 00:40:46 +0300 select * from users where nickName = '׳׳”׳“׳™'
+Thu, 22 Jul 10 00:40:55 +0300 select * from users where nickName = '׳‘׳׳‘׳׳'
+Thu, 22 Jul 10 00:41:20 +0300 select * from users where nickName = '׳׳”׳“׳™'
+Fri, 23 Jul 10 11:21:55 +0300 select count(*) from users where nickName =  "יוסי"
+Fri, 23 Jul 10 11:22:02 +0300 select count(*) from users where nickName =  "אהדי"
+Fri, 23 Jul 10 11:22:08 +0300 select count(*) from users where nickName =  "יוסי"
+Fri, 23 Jul 10 11:22:37 +0300 select count(*) from users where nickName =  "אהדי"
+Fri, 23 Jul 10 11:23:19 +0300 select count(*) from users where nickName =  "יוסי"
+Wed, 27 Oct 10 10:47:24 +0300 UpdateQuery:mainDetails:insert into shiduchim.person 
+			(firstName, lastName, tid, gender, age, dorYesharim, fatherName, fatherJob, fatherWork, motherName, motherLastName, motherJob, sibiling,flow,origin,street,neighborhood,city,country,phone,cellPhone,email,insertDate,updateDate,accupation,s_married,comments,birthdate)
+	values
+	( 'אהד', 'סדן-שטוק', '031485493', 'male', '1978','5464654', 'אהוד', 'שוטר', '', 
+		'רחל', 'רחמים', 'עקרת בית', '2', 'hasid', 'יד עזרה','יוסלה רוזנבלט 1','רמות ג','ירושלים','ישראל','02-6731136','0527122336','sadanoh@gmail.com','2010-10-27','2010-10-27','מתכנת','1','בחור נחמד','19790701');
+Fri, 29 Apr 11 11:33:03 +0300 UpdateQuery:mainDetails:insert into persondefanitions (item_id,user_id,defanition_id) values (2,,1)
+Fri, 29 Apr 11 11:33:03 +0300 Exception:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1)' at line 1
+Fri, 29 Apr 11 11:37:32 +0300 UpdateQuery:mainDetails:insert into persondefanitions (item_id,user_id,defanition_id) values (2,6,1)
+Fri, 29 Apr 11 11:37:32 +0300 Exception:Table 'shiduchim.persondefanitions' doesn't exist
+Fri, 29 Apr 11 11:39:17 +0300 UpdateQuery:mainDetails:insert into person_defanitions (item_id,user_id,defanition_id) values (2,7,1)
+Fri, 29 Apr 11 11:39:17 +0300 Exception:Table 'shiduchim.person_defanitions' doesn't exist
+Wed, 11 May 11 00:05:25 +0300 UpdateQuery:mainDetails:update person set firstName='משולם זושא' ,lastName='מוצאפי' , tid='31485493',
+			gender='male',age='24',birthdate='19870302',
+			dorYesharim='65998989',fatherName='יוסף',fatherJob='',
+			fatherWork='',motherName='רוחמה',motherLastName='מזרחי',
+			motherJob='עקרת בית',sibiling='4',flow='5',origin='עיראקי',street='',
+			neighborhood='מבשרת ציון',city='ירושלים',country='ישראל',phone='026731136',
+			cellPhone='0527122336',email='',updateDate='2011-05-11',
+			accupation='מצחצח נעליים',s_married='3',comments='בחור מצויין'
+			 where id = 13
+Wed, 11 May 11 00:05:25 +0300 Exception:mysql error: [1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''עיראקי' 'ירושלים' 026731136 0527122336 'מצחצח נעליים,name='משולם זושא' 'מוצאפי'' at line 1] in EXECUTE("UPDATE search SET term=65998989 'עיראקי' 'ירושלים' 026731136 0527122336 'מצחצח נעליים,name='משולם זושא' 'מוצאפי' WHERE pid=13")
+
+Mon, 22 Aug 11 22:03:49 +0300 Problem handeling search query
+Tue, 23 Aug 11 20:06:19 +0300 Problem handeling search query
+Tue, 23 Aug 11 20:06:47 +0300 Problem handeling search query
+Tue, 23 Aug 11 20:06:54 +0300 Problem handeling search query
+Tue, 23 Aug 11 20:07:08 +0300 Problem handeling search query
+Tue, 23 Aug 11 20:07:17 +0300 Problem handeling search query
+Tue, 23 Aug 11 20:09:25 +0300 Problem handeling search query
+Thu, 25 Aug 11 00:37:23 +0300 Function :  
+ Message : Invalid $_REQUEST[id] 
+ Params : request_id = ghjgj 
+
+Thu, 25 Aug 11 00:55:54 +0300 Function :  
+ Message : Invalid $_REQUEST[id] 
+ Params : request_id =  
+
+Thu, 25 Aug 11 00:56:57 +0300 Function :  
+ Message : Invalid $_REQUEST[id] 
+ Params : request_id =  
+
+Thu, 25 Aug 11 00:57:26 +0300 Function :  
+ Message : Invalid $_REQUEST[id] 
+ Params : request_id =  
+
+Thu, 25 Aug 11 00:57:53 +0300 Function :  
+ Message : Invalid $_REQUEST[id] 
+ Params : request_id =  
+
+Thu, 25 Aug 11 00:58:39 +0300 Function :  
+ Message : Invalid $_REQUEST[id] 
+ Params : request_id =  
+
+Wed, 31 Aug 11 23:43:34 +0300 Function : get_pending_offers_data 
+ Message : Person Id Is not Valid 
+ Params : person_id =  
+
+Wed, 31 Aug 11 23:44:46 +0300 Function : get_pending_offers_data 
+ Message : Person Id Is not Valid 
+ Params : person_id =  
+
+Wed, 31 Aug 11 23:45:48 +0300 Function : get_pending_offers_data 
+ Message : Person Id Is not Valid 
+ Params : person_id =  
+
+Wed, 31 Aug 11 23:46:56 +0300 Function : get_pending_offers_data 
+ Message : Person Id Is not Valid 
+ Params : person_id =  
+
+Wed, 31 Aug 11 23:48:38 +0300 Function : get_pending_offers_data 
+ Message : Person Id Is not Valid 
+ Params : person_id =  
+
+Wed, 31 Aug 11 23:49:38 +0300 Function : get_pending_offers_data 
+ Message : Person Id Is not Valid 
+ Params : person_id =  
+
+Wed, 31 Aug 11 23:51:02 +0300 Function : get_pending_offers_data 
+ Message : Person Id Is not Valid 
+ Params : person_id =  
+
+Mon, 12 Sep 11 00:19:32 +0300 Function : login 
+ Message : error recive login object while recive response from the db 
+ Params : name = dfflksjkj 
+pass = sfdasf 
+
+Mon, 12 Sep 11 00:20:33 +0300 Function : login 
+ Message : error recive login object while recive response from the db 
+ Params : name = asda 
+pass = asda 
+
+Mon, 12 Sep 11 00:21:55 +0300 Function : login 
+ Message : error recive login object while recive response from the db 
+ Params : name = fs 
+pass = sdf 
+
+Mon, 12 Sep 11 00:21:55 +0300 Function : login 
+ Message : error recive login object while recive response from the db 
+ Params : name = fs 
+pass = sdf 
+
+Mon, 12 Sep 11 01:10:36 +0300 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = אהד 
+token = 71a7940ee684fbb1aa0affb31ef8f4aa 
+
+Mon, 12 Sep 11 01:10:45 +0300 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = אהד 
+token = 5f9b02d08c727afa4250be10a1d049ea 
+
+Mon, 12 Sep 11 01:13:17 +0300 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 349de91ef947e095c64b425a3cdb4717 
+
+Tue, 20 Sep 11 00:11:27 +0300 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = אהד 
+token = fb38655551b842f77cebcdfd0baec9e1 
+
+Tue, 20 Sep 11 00:11:55 +0300 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = אהד 
+token = c1159174677981c3b31843f18326c67e 
+
+Sat, 24 Sep 11 23:21:50 +0300 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = אהד 
+token = 50e214f2a8443d79d80f1ad7b0da1279 
+
+Mon, 03 Oct 11 01:09:38 +0300 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = אהד 
+token = 0b03b51f937ac3a51c69f765139594c1 
+
+Thu, 06 Oct 11 02:19:28 +0300 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = f25af7af36b40db90b5f26bb6f25d829 
+
+Thu, 05 Jan 12 10:51:14 +0100 UpdateQuery:mainDetails:insert into person_defanitions (item_id,user_id,defanition_id) values (2,51,1) on duplicate key update defanition_id=1
+Thu, 05 Jan 12 10:51:14 +0100 Exception:Table 'shiduchim.person_defanitions' doesn't exist
+Thu, 05 Jan 12 10:52:03 +0100 UpdateQuery:mainDetails:insert into person_defanitions (item_id,user_id,defanition_id) values (2,52,1) on duplicate key update defanition_id=1
+Thu, 05 Jan 12 10:52:03 +0100 Exception:Table 'shiduchim.person_defanitions' doesn't exist
+Thu, 05 Jan 12 11:14:17 +0100 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 37b7784e248ab4519d529d7c93458e36 
+
+Sat, 07 Jan 12 20:42:59 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4db46fc33faf1db2711931293c0b435b 
+
+Sun, 08 Jan 12 22:04:16 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b8a00d98b9da4cb5c36c0ab526e05aec 
+
+Sun, 08 Jan 12 22:24:25 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = c8d7f0be9678cec643f9eb7a848c817b 
+
+Sun, 08 Jan 12 22:24:25 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = c8d7f0be9678cec643f9eb7a848c817b 
+
+Sun, 08 Jan 12 22:24:26 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = c8d7f0be9678cec643f9eb7a848c817b 
+
+Sun, 08 Jan 12 22:24:26 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = c8d7f0be9678cec643f9eb7a848c817b 
+
+Sun, 08 Jan 12 22:24:27 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = c8d7f0be9678cec643f9eb7a848c817b 
+
+Sun, 08 Jan 12 22:24:27 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = c8d7f0be9678cec643f9eb7a848c817b 
+
+Sun, 08 Jan 12 22:24:27 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = c8d7f0be9678cec643f9eb7a848c817b 
+
+Sun, 08 Jan 12 22:24:28 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = c8d7f0be9678cec643f9eb7a848c817b 
+
+Sun, 08 Jan 12 22:24:28 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = c8d7f0be9678cec643f9eb7a848c817b 
+
+Sun, 08 Jan 12 23:01:41 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a4423627eb7eaf037409a137d2e0432d 
+
+Sun, 08 Jan 12 23:25:17 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = c36ca6ea65d2b4c503ba3b353dac6d97 
+
+Sun, 08 Jan 12 23:46:52 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 70692017cf7aea90101ca210728c0fe2 
+
+Tue, 10 Jan 12 22:06:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4ab2f839f7709321a6f65173ddc8f15e 
+
+Tue, 10 Jan 12 22:06:52 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 87f7531db88034541213e08bc8a7c286 
+
+Tue, 10 Jan 12 23:12:54 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = dad5fa7232a3bc9763573831a4b7e2c1 
+
+Wed, 11 Jan 12 18:46:55 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 432b034886beac5885489638f50bf996 
+
+Wed, 11 Jan 12 18:46:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 432b034886beac5885489638f50bf996 
+
+Wed, 11 Jan 12 18:46:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 432b034886beac5885489638f50bf996 
+
+Wed, 11 Jan 12 18:46:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 432b034886beac5885489638f50bf996 
+
+Wed, 11 Jan 12 18:46:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 432b034886beac5885489638f50bf996 
+
+Wed, 11 Jan 12 18:46:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 432b034886beac5885489638f50bf996 
+
+Wed, 11 Jan 12 21:04:57 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 7a0e8a3aa2e3c2d9424be840fa9e4607 
+
+Wed, 11 Jan 12 21:17:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 700edd330b99432db98aa6d6e0a54e8b 
+
+Thu, 12 Jan 12 01:31:38 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = f67dbbfa497f2c69cc610b2c25ca3176 
+
+Thu, 12 Jan 12 01:31:39 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 77ef785af25e0fbd271222fd06b16474 
+
+Mon, 16 Jan 12 21:25:09 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:09 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:09 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:09 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:10 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:10 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:10 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:10 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:13 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:13 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1dc60e8d2122fea02aaf9bccb0c86f40 
+
+Mon, 16 Jan 12 21:25:53 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 073dc36dab453de835217aa67e1a1b0e 
+
+Mon, 16 Jan 12 21:41:10 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1af35f5addb2f9bdb366db471b308464 
+
+Mon, 16 Jan 12 21:41:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Mon, 16 Jan 12 21:41:13 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3a3313c36b9f85f9872099a2c84b8698 
+
+Sun, 22 Jan 12 23:40:21 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b29639cc20e5fe6bbecca7a871f47684 
+
+Sun, 22 Jan 12 23:40:26 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:26 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:27 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:28 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:28 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:29 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:31 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:31 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:32 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:33 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:33 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:34 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:34 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:40:35 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 63ffb10899b97f440e13c7a36a5cda50 
+
+Sun, 22 Jan 12 23:51:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1d537bacacc5b97aef7c5424f9b1b75d 
+
+Mon, 23 Jan 12 20:32:43 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = f5ba2306c5296a1bea0ada701b754b5d 
+
+Mon, 23 Jan 12 20:32:43 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4a52f2c2efebbba68e9b5cfcb828966b 
+
+Mon, 23 Jan 12 20:32:43 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4a52f2c2efebbba68e9b5cfcb828966b 
+
+Mon, 23 Jan 12 20:32:44 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4a52f2c2efebbba68e9b5cfcb828966b 
+
+Mon, 23 Jan 12 20:32:44 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4a52f2c2efebbba68e9b5cfcb828966b 
+
+Mon, 23 Jan 12 20:32:44 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4a52f2c2efebbba68e9b5cfcb828966b 
+
+Mon, 23 Jan 12 20:32:44 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4a52f2c2efebbba68e9b5cfcb828966b 
+
+Mon, 23 Jan 12 20:32:44 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4a52f2c2efebbba68e9b5cfcb828966b 
+
+Mon, 23 Jan 12 20:32:44 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4a52f2c2efebbba68e9b5cfcb828966b 
+
+Mon, 23 Jan 12 20:32:45 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 8b9b31631d4166e9ac62258acdc52103 
+
+Mon, 23 Jan 12 20:32:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 8b9b31631d4166e9ac62258acdc52103 
+
+Mon, 23 Jan 12 20:32:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4a52f2c2efebbba68e9b5cfcb828966b 
+
+Mon, 23 Jan 12 20:32:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4a52f2c2efebbba68e9b5cfcb828966b 
+
+Wed, 25 Jan 12 21:02:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:49 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:49 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:49 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:49 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:50 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:50 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:50 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 21:02:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 641c35df03bb9d8b5875ba40b8815a9c 
+
+Wed, 25 Jan 12 23:01:23 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 89e0b9b31dfc034e8af9a6b463a4dfe9 
+
+Wed, 25 Jan 12 23:01:23 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = f7e01f6bbd71d07502ebae15b6b9f133 
+
+Sun, 29 Jan 12 22:11:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 2ebe6ed82b52eaa75968d89cc82216e5 
+
+Sun, 29 Jan 12 22:11:55 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fa75f9f9e3448b69e81f362c3994a3f0 
+
+Sun, 29 Jan 12 22:12:08 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 7fa7ed825b0d96a83f8ded55a95a70c6 
+
+Sun, 29 Jan 12 22:12:39 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 6020dfa9ac2bf891504e562c622ba227 
+
+Sun, 29 Jan 12 22:12:40 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 6020dfa9ac2bf891504e562c622ba227 
+
+Sun, 29 Jan 12 22:12:59 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3ac4cb071698a324180824892f936aba 
+
+Sun, 29 Jan 12 22:13:00 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3ac4cb071698a324180824892f936aba 
+
+Sun, 29 Jan 12 22:13:00 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3ac4cb071698a324180824892f936aba 
+
+Sun, 29 Jan 12 22:13:08 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0d9000a858e07bb5de5663398d00d3b2 
+
+Sun, 29 Jan 12 22:13:09 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0d9000a858e07bb5de5663398d00d3b2 
+
+Sun, 29 Jan 12 22:13:09 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0d9000a858e07bb5de5663398d00d3b2 
+
+Sun, 29 Jan 12 22:13:10 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0d9000a858e07bb5de5663398d00d3b2 
+
+Sun, 29 Jan 12 22:13:10 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0d9000a858e07bb5de5663398d00d3b2 
+
+Sun, 29 Jan 12 22:13:32 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 363b3e3daca25360ffc5f21b2315fd9b 
+
+Sun, 29 Jan 12 23:40:54 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 719a6353ab6f5fcdd37c45bf63ba71f0 
+
+Sun, 29 Jan 12 23:40:54 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 719a6353ab6f5fcdd37c45bf63ba71f0 
+
+Sun, 29 Jan 12 23:48:33 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = f1820f6e9ff4de9be4cfa4dd0d2a73cd 
+
+Mon, 30 Jan 12 00:03:25 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 5f0b6c5f0e6103e1911f4bfc90db03f0 
+
+Tue, 31 Jan 12 22:54:59 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 2cf274250d5a0141b38fafc3119c6c07 
+
+Tue, 31 Jan 12 22:55:01 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 2cf274250d5a0141b38fafc3119c6c07 
+
+Tue, 31 Jan 12 22:55:02 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 2cf274250d5a0141b38fafc3119c6c07 
+
+Tue, 31 Jan 12 22:55:02 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 2cf274250d5a0141b38fafc3119c6c07 
+
+Tue, 31 Jan 12 22:55:03 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 2cf274250d5a0141b38fafc3119c6c07 
+
+Tue, 31 Jan 12 22:55:04 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 2cf274250d5a0141b38fafc3119c6c07 
+
+Tue, 31 Jan 12 22:55:06 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 2cf274250d5a0141b38fafc3119c6c07 
+
+Tue, 31 Jan 12 22:55:44 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 073b95c72d638da18fe9e7be0ef92370 
+
+Tue, 31 Jan 12 22:55:58 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = e9728904bc376e0ffe47b823bf6d04ec 
+
+Tue, 31 Jan 12 22:56:25 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 7bb2b15347668256296dc8fb77748344 
+
+Tue, 31 Jan 12 22:57:28 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = f3a6e10ef61f133b8229f1cafdc21ea6 
+
+Tue, 31 Jan 12 22:57:41 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 19042d19de17ebb118cf1a9d3619d791 
+
+Tue, 31 Jan 12 22:57:42 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 19042d19de17ebb118cf1a9d3619d791 
+
+Tue, 31 Jan 12 22:57:42 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 19042d19de17ebb118cf1a9d3619d791 
+
+Tue, 31 Jan 12 22:57:43 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 19042d19de17ebb118cf1a9d3619d791 
+
+Tue, 31 Jan 12 23:03:59 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 76319abe8f91b89e1ed5d58c848f53cb 
+
+Tue, 31 Jan 12 23:04:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1277a7d7aca153c64ee7228dc6c8564d 
+
+Tue, 31 Jan 12 23:04:18 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 91252b0e0abc2f3ec2594eb73e14c038 
+
+Tue, 31 Jan 12 23:04:38 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 780c6ac76d72b3d2788bdea4c5f5cb58 
+
+Tue, 31 Jan 12 23:04:52 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = ab30674f276dfbb6c2f3701029547f82 
+
+Tue, 31 Jan 12 23:04:59 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = de80916d8f2123dddf3b701e00261c4f 
+
+Tue, 31 Jan 12 23:05:00 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = de80916d8f2123dddf3b701e00261c4f 
+
+Tue, 31 Jan 12 23:05:00 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = de80916d8f2123dddf3b701e00261c4f 
+
+Tue, 31 Jan 12 23:05:18 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 091fbb21da32c26d534380cbd41e880d 
+
+Tue, 31 Jan 12 23:05:18 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 091fbb21da32c26d534380cbd41e880d 
+
+Tue, 31 Jan 12 23:05:25 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 09321afc124ef4eb0fad8511e45a6b31 
+
+Tue, 31 Jan 12 23:05:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1221c0e1a8366a66ccf909d303eac7f6 
+
+Tue, 31 Jan 12 23:05:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1221c0e1a8366a66ccf909d303eac7f6 
+
+Tue, 31 Jan 12 23:09:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 39f215608a0a4c946221df94296a3856 
+
+Tue, 31 Jan 12 23:10:08 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 6c1eaab32fef34ce9116d722095163be 
+
+Tue, 31 Jan 12 23:10:27 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = f4ffc1f75380532acd64588739f2d2db 
+
+Tue, 31 Jan 12 23:11:39 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 948dd315166f653c0e631dbd69461681 
+
+Tue, 31 Jan 12 23:11:45 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1915bfaa503e590c81017e5c5ff8dddf 
+
+Tue, 31 Jan 12 23:12:37 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 6d6e11de656f7c508f31d0c0ff614684 
+
+Tue, 31 Jan 12 23:12:53 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0fc249a94b4ea3a37fdc723dfc4d55fb 
+
+Tue, 31 Jan 12 23:13:17 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4f0aa036b7ad1ea976aa523e17cb38c4 
+
+Tue, 31 Jan 12 23:14:03 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 75e1019b55567d262af9e91dd1ff4423 
+
+Tue, 31 Jan 12 23:15:38 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 49962d29fdd2d116934e197c7250e74f 
+
+Tue, 31 Jan 12 23:21:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 8c4f56c99bf4fbd18243948d29bca8a8 
+
+Tue, 31 Jan 12 23:21:58 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3f0ab573de50612fc91f3121a78120b4 
+
+Tue, 31 Jan 12 23:21:59 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3f0ab573de50612fc91f3121a78120b4 
+
+Tue, 31 Jan 12 23:23:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1d0411d9585981eb0c5a34a8fd443730 
+
+Tue, 31 Jan 12 23:27:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a87a4f8475e13d901bf209fafa433d63 
+
+Tue, 31 Jan 12 23:27:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a87a4f8475e13d901bf209fafa433d63 
+
+Tue, 31 Jan 12 23:27:53 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3208c55139d17354730013ea2cee6e2b 
+
+Tue, 31 Jan 12 23:28:05 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 135485f2bdeae2e28382492d0cf702db 
+
+Tue, 31 Jan 12 23:28:15 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 03f55975c426f9a9d6d71ae4b6a2cab5 
+
+Tue, 31 Jan 12 23:28:15 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 03f55975c426f9a9d6d71ae4b6a2cab5 
+
+Tue, 31 Jan 12 23:28:25 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3ba4015d5fbf6981c9ef7ed9bcc579c6 
+
+Tue, 31 Jan 12 23:28:25 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3ba4015d5fbf6981c9ef7ed9bcc579c6 
+
+Tue, 31 Jan 12 23:37:37 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 1c1f40a4eb7beb87c0c8a404c223edc8 
+
+Tue, 31 Jan 12 23:38:01 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cec0beec558675018dff2f25a69124c6 
+
+Tue, 31 Jan 12 23:38:44 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = d7502785a38b7d3bb65d98f11a0bfd13 
+
+Tue, 31 Jan 12 23:38:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = ab6bfab388a0060f087cc0a6723d57cc 
+
+Tue, 31 Jan 12 23:39:09 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 24f612bcc48b8152e721866676c2ae23 
+
+Tue, 31 Jan 12 23:39:19 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 8a22085f3ba552034325a83a2b9d8963 
+
+Tue, 31 Jan 12 23:39:19 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 8a22085f3ba552034325a83a2b9d8963 
+
+Tue, 31 Jan 12 23:39:32 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b2b377f70d3870b6de8d3ccd272e5911 
+
+Tue, 31 Jan 12 23:39:32 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b2b377f70d3870b6de8d3ccd272e5911 
+
+Tue, 31 Jan 12 23:39:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = bd8f8538503dcee32fd8ce6b3977d79c 
+
+Tue, 31 Jan 12 23:39:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = bd8f8538503dcee32fd8ce6b3977d79c 
+
+Tue, 31 Jan 12 23:39:52 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = e8b7fbd095a5f6fabf9b32dabe67c432 
+
+Tue, 31 Jan 12 23:39:52 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = e8b7fbd095a5f6fabf9b32dabe67c432 
+
+Tue, 31 Jan 12 23:40:03 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 84ed97f7beb544cf168bac41b505c59f 
+
+Tue, 31 Jan 12 23:40:03 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 84ed97f7beb544cf168bac41b505c59f 
+
+Tue, 31 Jan 12 23:40:20 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 2cb9068f02a58c988a3215308fc314d8 
+
+Tue, 31 Jan 12 23:40:21 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 2cb9068f02a58c988a3215308fc314d8 
+
+Tue, 31 Jan 12 23:40:33 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 10c4ef190e88e444af98c1f632074851 
+
+Tue, 31 Jan 12 23:40:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = bf44e5c021b60c547ba47baca75b24e6 
+
+Tue, 31 Jan 12 23:41:01 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 9650c1f2a35da8ccbaa5fa3c87de11a2 
+
+Tue, 31 Jan 12 23:41:01 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 9650c1f2a35da8ccbaa5fa3c87de11a2 
+
+Tue, 31 Jan 12 23:41:17 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = f9bee395bf0e53e995f9daee38cc0bfd 
+
+Tue, 31 Jan 12 23:41:17 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = f9bee395bf0e53e995f9daee38cc0bfd 
+
+Tue, 31 Jan 12 23:41:17 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = f9bee395bf0e53e995f9daee38cc0bfd 
+
+Tue, 31 Jan 12 23:41:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b6a4f65d0d2f195490de5f0facc93175 
+
+Tue, 31 Jan 12 23:41:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b6a4f65d0d2f195490de5f0facc93175 
+
+Tue, 31 Jan 12 23:41:45 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf23006d2be8d63bc83339e27bd4118a 
+
+Tue, 31 Jan 12 23:59:39 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 078a566b1e3588206214948695113c73 
+
+Tue, 31 Jan 12 23:59:40 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 078a566b1e3588206214948695113c73 
+
+Tue, 31 Jan 12 23:59:41 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 078a566b1e3588206214948695113c73 
+
+Tue, 31 Jan 12 23:59:41 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3d827b8c011c4e09c9bea0e0a15c192a 
+
+Tue, 31 Jan 12 23:59:42 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 078a566b1e3588206214948695113c73 
+
+Tue, 31 Jan 12 23:59:43 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 078a566b1e3588206214948695113c73 
+
+Tue, 31 Jan 12 23:59:45 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3d827b8c011c4e09c9bea0e0a15c192a 
+
+Wed, 01 Feb 12 00:00:59 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3fe76a8c2691f45fcf3609e424039008 
+
+Wed, 01 Feb 12 00:01:43 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 173c5cf48e9b6a6df7eee29e26af24a0 
+
+Wed, 01 Feb 12 00:08:45 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 70d651f29ea31bbbdec13de095f04ec6 
+
+Wed, 01 Feb 12 00:08:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 70d651f29ea31bbbdec13de095f04ec6 
+
+Wed, 01 Feb 12 00:08:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3ee57caf29d1be8e34d296d941c14c25 
+
+Wed, 01 Feb 12 00:08:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3ee57caf29d1be8e34d296d941c14c25 
+
+Wed, 01 Feb 12 00:08:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 70d651f29ea31bbbdec13de095f04ec6 
+
+Wed, 01 Feb 12 00:08:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 3ee57caf29d1be8e34d296d941c14c25 
+
+Wed, 01 Feb 12 00:08:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 70d651f29ea31bbbdec13de095f04ec6 
+
+Wed, 01 Feb 12 00:08:48 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 70d651f29ea31bbbdec13de095f04ec6 
+
+Wed, 01 Feb 12 00:08:49 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 70d651f29ea31bbbdec13de095f04ec6 
+
+Wed, 01 Feb 12 00:08:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 6fc4642a2f9cdfc72087cb0e156369c8 
+
+Wed, 01 Feb 12 00:10:19 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 5c26446fcb2d4ce7bb804ca4d8e4a7c3 
+
+Wed, 01 Feb 12 00:10:34 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 944f2badd5c524334595155e70a15401 
+
+Wed, 01 Feb 12 00:12:59 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 103256fff2b3bf098335909420792be0 
+
+Wed, 01 Feb 12 00:13:06 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b6b5f1fa1ac43c3a35571510f15e3977 
+
+Sun, 05 Feb 12 22:51:09 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 34b9cb2091f6afe077be804e88fd56cd 
+
+Sun, 05 Feb 12 22:57:48 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 99ed0cbabc480709bef855fe109b08fe 
+
+Sun, 05 Feb 12 22:57:50 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:50 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:52 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:52 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:52 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 98ca79f853dea7cbf2a9e6a580299486 
+
+Sun, 05 Feb 12 22:57:52 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:52 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:53 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:53 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = a3d1c5212df73d76179bcf8fa9d27510 
+
+Sun, 05 Feb 12 22:57:53 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 98ca79f853dea7cbf2a9e6a580299486 
+
+Sun, 05 Feb 12 22:57:53 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 98ca79f853dea7cbf2a9e6a580299486 
+
+Mon, 06 Feb 12 22:13:09 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:12 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:13 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:13 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:13 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:13 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:14 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:14 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:14 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:15 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:15 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = b7cab184a9068ab63eed1b2955734ec3 
+
+Mon, 06 Feb 12 22:13:43 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 01b4dfa68309520981e6a1a2c48d72fd 
+
+Wed, 08 Feb 12 22:30:27 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:28 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:28 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:29 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:29 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:29 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:29 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:29 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:30 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:31 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:31 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:31 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:31 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:32 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:32 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:33 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:33 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:33 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Wed, 08 Feb 12 22:30:33 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = cf9a997d38ead4a9354d80ce9a053a85 
+
+Thu, 09 Feb 12 00:01:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0bca39c4ec097c6355ff360d3f1d9d72 
+
+Thu, 09 Feb 12 00:01:54 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:55 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:55 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:55 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:55 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:56 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:57 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:57 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:57 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:57 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:57 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:58 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:01:58 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 0216003bf41ede016d4185d77d649a74 
+
+Thu, 09 Feb 12 00:08:41 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 4c277384c85b1956dee3479d9f55a5e8 
+
+Thu, 09 Feb 12 00:25:11 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = 9d6a82e1f3ccc7305dad66f8216290d2 
+
+Thu, 09 Feb 12 00:25:21 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = bad9090dce541eebe59a52804d917c87 
+
+Thu, 09 Feb 12 00:25:21 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = bad9090dce541eebe59a52804d917c87 
+
+Thu, 09 Feb 12 23:14:39 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:39 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:40 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:40 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:40 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:41 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:41 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:41 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:42 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:43 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:43 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:44 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:44 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:45 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:46 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:47 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+
+Thu, 09 Feb 12 23:14:51 +0200 Function : checkUser 
+ Message : error recive login object while recive response from the db 
+ Params : user = נחמן 
+token = fc0d13a87c653e6e6b963bd71d3a79ea 
+

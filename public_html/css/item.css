@@ -1,0 +1,155 @@
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
+
+/*.tab input['type=text']{font-size:12px;}*/
+.tab input.long{width:190px;}
+.tab p{}
+.tab label {font-size:13px;display:block;height:18px;} 
+.tab label.h_date{display:inline;float:right}
+.tab select.h_date{float:right;}
+.tab h3 {clear:right;border-bottom:1px solid activeBorder;padding-top:10px;font-style:italic;}
+.tab h3 a{float:left;font-size:12px;font-weight:bold;text-decoration:none;}
+.tab h3 a:hover{color:crimson;text-decoration:underline;}
+.tab h3,.tab label{color:gray;}
+.tab div.formRow{clear:right;padding:3px 0px;}
+.tab input.numValue{width:25px;}
+.tab input,.tab textarea{text-align:right;font-size:11px;}
+.tab select {text-align:right;}
+.tab div.cell{float:right;margin-left:23px;}
+.tab div.multyDataCont{margin-bottom:10px;}
+.tab div.multyDataCont table{float:right;direction:rtl;}
+.tab div.multyDataCont table.tblData{}
+.tab div.multyDataCont div.scrollData{overflow-y:auto;height:165px;overflow-x:auto;clear:both;}
+.tab div.multyDataCont table input[type=text]{width:100px;}
+.tab div.multyDataCont table textarea{height:35px;width:150px;text-align:right;}
+.tab div.multyDataCont table td{vertical-align:top;}
+.tab div.multyDataCont table th{color:gray;}
+.tab div.multyDataCont ul{list-style-type:none;font-weight:bold;color:gray;}
+.tab div.multyDataCont ul li {float:right;}
+#fragment-1{overflow:hidden;}
+#fragment-2{overflow:hidden;}
+#fragment-3{overflow:hidden;}
+.buttons{clear:both;float:left;margin-left:25px;font-size:8pt;}
+span.required{color:crimson}
+.message{text-align:center;color:crimson;font-weight:bold;clear:both;padding-top:8px;}
+.login_message{color:crimson;}
+li.login,li.logout{float:left;}
+li.logout  a{text-decoration:none;color:white}
+li.logout  a:hover{text-decoration:underline;}
+#dialog{position:relative;text-align:center;}
+#dialog label {float:right;}
+#dialog label {float:right;}
+#dialog input{direction:rtl;}
+#dialog input#loginName{margin-left:84px;width:141px;}
+#dialog input#loginPassword{margin-left:91px;width:140px;}
+#dialog div.formContainer{margin-top:10px;}
+#dialog label.loginName{margin-left:7px;}
+.candidate-list-wrapper {float:right;margin-right:10px;}
+.candidate-list-wrapper .candidate-content {margin:2px 10px 0 0 }
+.candidate-list-wrapper ul {list-style-type:none;}
+.candidate-list-wrapper ul li {margin:10px 10px 10px 0;padding:5px;}
+.candidate-header .ui-icon {cursor:pointer;} 
+.candidate-header{height:20px;}
+.candidate-list-wrapper .candidate-header{height:48px;}
+.candidate-list-wrapper .headerText {width:370px;}
+.candidate-header .candidate-header-name {background:none;}
+.candidate-content div a{color:#5D9A5D !important;float:left;font-size:13px;font-weight:bold;font-family:Ariel;}
+.candidate-content div a:hover{color:#922b2b !important}
+.headerText{float:right;padding-right:8px;}
+.candidate-content div span{font-size:12px;font-weight:bold;}
+#sortable1, #sortable2 {list-style-type: none; margin: 0; padding: 0; float: right; margin-right: 10px; background: #FBF9EE; padding: 5px; width: 403px; }
+#sortable1 li, #sortable2 li { margin: 0 5px 5px 5px; padding: 5px; font-size: 1.2em; width: 382px; }
+.candidate-list-wrapper .candidate ul.candidate-list-status {margin:0;}
+.candidate-list-wrapper .candidate ul.candidate-list-status li{float:right;margin:0 0 0 5px;padding:0;}
+.candidate-list-wrapper .candidate ul.candidate-list-status li.candidate-options {float:left;}
+.candidate-list-wrapper .candidate ul.candidate-list-status li.candidate-options a {color:#346A34;}
+.candidate-list-wrapper .candidate ul.candidate-list-status li.candidate-options a:hover{color:#8F2A2A;}
+.candidate-page-title {margin:5px 20px 9px 0;}
+.candidate-page-title h2 {color:gray;font-size:20px;float:right;padding-bottom:10px;}
+.person-nev {clear:both;}
+
+.search-group-content .stable {overflow:hidden;margin:11px 0 5px;}
+.search-group-content span.text {color:gray}
+
+.select-users-list{direction:rtl};
+.select-users-list label{font-weight:bold;font-size:13px;color:gray;}
+.select-users-list span.text,.stable select {font-size:11px;font-weight:normal;}
+.select-users-list span.text{color:gray;}
+.select-users-list .stable select{margin-left:5px;}
+.select-users-list div.gender{position:relative;bottom:5px;right:12px;}
+.select-users-list div.gender select{height:20px;}
+.select-users-list .stable label,.stable input,.stable span.text {float:right;margin-left:5px}
+.select-users-list .stable,.attributes {padding:2px 10px;}
+.select-users-list .stable table  td {vertical-align:top;}
+.select-users-list .stable table td.Attri {width:195px;}
+.select-users-list .stable table td.Details {width:auto;}
+.select-users-list input.inputSearch{float:none!important;font-size:11px;}
+ .clear{clear:both;height:1px;}
+.select-users-list h3{color:appworkspace;}
+.select-users-list a.plus,a.minus{font-weight:bold;font-size:14px;text-decoration:none;}
+.select-users-list a.minus{color:crimson;}
+.select-users-list a.plus:hover{color:crimson;}
+.select-users-list a.minus:hover{color:##5D9A5D;}
+
+/*.ui-tabs-vertical { width: 55em; }*/
+.ui-tabs-vertical .ui-tabs-nav { padding: .2em .2em .2em .1em; float: right; width: 10em; }
+.ui-tabs-vertical .ui-tabs-nav li { clear: right; width: 100%; border-bottom-width: 1px !important; border-left-width: 0 !important; margin: 0 0px .2em -1px; }
+.ui-tabs-vertical .ui-tabs-nav li a { display:block; }
+.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-selected { padding-bottom: 0; padding-left: .1em; border-left-width: 1px; border-left-width: 1px; }
+.ui-tabs-vertical .ui-tabs-panel { padding: 1em; float:right;}
+	
+.candidate-offer .ui-tabs-vertical .ui-tabs-nav {background:none;padding:0 0 1px 5px;margin:8px 8px 8px 0;}
+.candidate-offer .ui-tabs-vertical .ui-tabs-nav li a {padding-left:6px}
+.candidate-offer .candidate-header  {height:42px;}
+.candidate-offer {padding:8px;margin:5px 0;}
+.candidate-offer .candidate-meetings-panel{display:none;clear:both;direction:rtl;}
+.candidate-offer .ui-icon ui-icon-plusthick {float:left;}
+/*.candidate-offer .candidate-header headerText {margin-bottom:13px;}*/
+.tab .tab-region-right {float:right;}
+
+.meetings-tabs .ui-button-text-only .ui-button-text {padding-top:0;padding-bottom:0;}
+#meeting-comments-dialog {width:500px;}
+.ui-widget-wrapper {position:fixed;direction:rtl;text-align:right;}
+.ui-dialog-titlebar-close {text-align:left;}
+#ui-dialog-title-meeting-comments-dialog {float:right;}
+.ui-dialog-titlebar {direction:ltr;}
+.clear.save-change-space{clear:both;height:10px;}
+
+.offer-log {width:540px;height:220px;overflow:hidden;}
+.offer-log-inner {padding:10px;overflow-y:scroll;height:200px}
+
+.hebraw-date .select-date {float:right;margin-left:15px;}
+
+.add-new-meeting .add-new-meeting-text{position:relative;top:-3px;}
+.add-new-meeting .ui-icon {float:right;margin-left:5px;}
+.add-new-meeting-form {display:none;}
+.add-new-meeting-form form {padding:10px;border:1px solid #aaaaaa;overflow:hidden;}
+
+.tbl-meetings-table {border:1px solid #aaaaaa;margin-top:20px;width:560px;}
+.tbl-meetings-table tr td,.meetings-table tr th{border:1px solid #aaaaaa;padding:4px;}
+.tbl-meetings-table .tbl-meeting-remarks {}
+.tbl-meetings-table .tbl-meeting-actions {width:149px;}
+
+/** reports **/
+.reports {padding:20px;direction:rtl;}
+.ui-datepicker.ui-widget {line-height:9px;width:14em;}
+.reports-bar .formRow input.ui-button {margin-top:11px;}
+.reports-bar .formRow {overflow:hidden;}
+.reports-table-bar table{margin:0px auto;width:81%;background-color:#afafaf;direction:rtl;margin-top:30px;}
+.reports-table-bar table table {width:97%;margin:1px auto;background-color:#efefef;direction:rtl;}
+.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span {text-align:left;}
+.reports-table-bar table.shid-result-table td {border:1px solid black;padding:3px;}
+
+.formContainer input.ui-button {float:left;margin:22px 0 0 21px;}
+.formContainer {width:165px;}
+
+#fLogin input {direction:rtl;}
+
+label.error{color:crimson;}
+input.error {border:1px solid crimson;}
+.search-form {margin:20px auto;overflow:hidden;width:556px;}
+.search-form form .ui-state-default {border-color:#5D9A5D;}
+.search-form input.search-input {width:400px;height:26px;margin:0px auto;float:right;font-size:16px;direction:rtl;}
+.search-form input[type=submit].search-input-submit {float:right;margin-right:10px;}
+
+.meeting-list-item {margin-bottom:10px;border-bottom:1px solid #e2e2e2;padding-bottom:10px;}
